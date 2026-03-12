@@ -2,8 +2,6 @@
 
 ### An experienced Javascript developer
 
-- 🔭 I'm currently working on **a website for a restaurant **
-
 - 🌱 I'm currently learning **TypeScript and SQL**
 
 - 💬 Ask me about **React, Node.js and web development **
