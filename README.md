@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **oleksandr.kodehode@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://sanderalex1.github.io/Portfolio/](https://sanderalex1.github.io/Portfolio/)**
+- 👨‍💻 All of my projects are available at **[https://sanderalex1.github.io/Portfolio/](https://sanderalex1.github.io/PortfolioV2/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
