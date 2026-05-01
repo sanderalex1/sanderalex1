@@ -1,20 +1,63 @@
-# Hi 👋, I'm sanderalex1
+<div align="center">
 
-### An experienced Javascript developer
+# Hi, I'm Alex 👋
 
-- 🌱 I'm currently learning **TypeScript and SQL**
+### Junior Frontend Developer · Kristiansund, Norway 🇳🇴
 
-- 💬 Ask me about **React, Node.js and web development **
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://sanderalex1.github.io/PortfolioV2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.myrhorodskyi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
-- 📫 How to reach me **alex.myrhorodskyi@gmail.com**
+</div>
 
-- 👨‍💻 All of my projects are available at **[https://sanderalex1.github.io/Portfolio/](https://sanderalex1.github.io/PortfolioV2/)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/sanderalex1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sanderalex1" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a></p>
+I build scalable web apps with **React**, **TypeScript**, and modern UI frameworks. My path here is a little unusual — I spent 2+ years as a logistics broker before transitioning into development, which means I bring strong communication skills, CRM experience, and real business domain knowledge to my code.
+
+- 🚀 Currently freelancing and **co-developing an AI-powered SaaS language-learning platform**
+- 🌱 Deepening my skills in **TypeScript** and **SQL**
+- 🤖 I lean into **AI-augmented dev workflows** — Claude Code, Lovable, MCP (Figma, Playwright)
+- 💬 Ask me about **React, Node.js, or modern frontend architecture**
+- 🌍 Languages: Ukrainian (native) · English (professional) · Norwegian (learning)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![JavaScript, TypeScript, HTML, CSS](https://skillicons.dev/icons?i=js,ts,html,css)
+
+**Frameworks & Libraries**
+
+![React, Node, Express, Vite, Redux, Tailwind, MUI](https://skillicons.dev/icons?i=react,nodejs,express,vite,redux,tailwind,materialui)
+
+**Tools**
+
+![Git, GitHub, VS Code, npm](https://skillicons.dev/icons?i=git,github,vscode,npm)
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanderalex1&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderalex1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **[alex.myrhorodskyi@gmail.com](mailto:alex.myrhorodskyi@gmail.com)** · 👨‍💻 **[Portfolio](https://sanderalex1.github.io/PortfolioV2/)**
+
+*Open to junior frontend roles and freelance projects.*
+
+</div>
 
